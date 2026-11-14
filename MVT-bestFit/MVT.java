@@ -137,7 +137,7 @@ public class MVT {
             }
         }
 
-        for (int i = 0; i < memoria.length; i++){
+        for (int i = destino; i < memoria.length; i++){
             memoria[i] = 0;
         }
     }
