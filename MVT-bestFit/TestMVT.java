@@ -74,6 +74,7 @@ public class TestMVT{
                     int id = leerEntero(lector);
 
                     mvt.eliminarProceso(id);
+                    break;
                 }
 
                 case 3: {
